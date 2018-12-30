@@ -1,3 +1,6 @@
 # Skillz-Yachad
-Goals
-
+Functions
+-Closest
+-weakest
+-shortest path
+-mana bank
